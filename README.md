@@ -42,4 +42,4 @@ A list of locally pre-installed softwares is required to perform this protocol:
           
    will provide the TM-score between models.
    
-   Questions and further assistance can be sent to rikchicfb@gmail.com
+   Questions and comments can be sent to rikchicfb@gmail.com
